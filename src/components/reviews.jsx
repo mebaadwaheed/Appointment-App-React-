@@ -1,7 +1,7 @@
-import MainGirlPNG from '../assets/BG(5).png';
-import LeftSideGirlPNG from '../assets/BG(6).png';
-import RightSideGirlPNG from '../assets/BG(7).png';
-import StarReviewsPNG from '../assets/Frame57(1).png'
+import MainGirlPNG from '../assets/BG-5-.png';
+import LeftSideGirlPNG from '../assets/BG-6-.png';
+import RightSideGirlPNG from '../assets/BG-7-.png';
+import StarReviewsPNG from '../assets/Frame57-1-.png'
 import '../component-styles/reviews.css';
 import { useState } from 'react';
 

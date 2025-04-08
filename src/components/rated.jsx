@@ -1,5 +1,5 @@
-import SurgeonsPNG from '../assets/pexels-rdne-stock-project-6129499(1)1(1).png';
-import RatedStarPNG from '../assets/Vector(2).png'
+import SurgeonsPNG from '../assets/pexels-rdne-stock-project-6129499-1-1-1-.png';
+import RatedStarPNG from '../assets/Vector-2-.png'
 import '../component-styles/rated.css';
 
 export default function DoctorRated() {

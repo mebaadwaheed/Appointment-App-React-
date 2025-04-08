@@ -1,8 +1,8 @@
-import MachineImage from "../assets/Sectionwhy_choose_us.jpeg(1).png";
-import FirstSmallPNG from "../assets/div.cs_iconbox_icon(4).png";
-import SecondSmallPNG from "../assets/div.cs_iconbox_icon(5).png";
-import ThirdSmallPNG from "../assets/div.cs_iconbox_icon(6).png";
-import FourthSmallPNG from "../assets/div.cs_iconbox_icon(7).png";
+import MachineImage from "../assets/Sectionwhy_choose_us.jpeg-1-.png";
+import FirstSmallPNG from "../assets/div.cs_iconbox_icon-4-.png";
+import SecondSmallPNG from "../assets/div.cs_iconbox_icon-5-.png";
+import ThirdSmallPNG from "../assets/div.cs_iconbox_icon-6-.png";
+import FourthSmallPNG from "../assets/div.cs_iconbox_icon-7-.png";
 import "../component-styles/why-choose-us.css";
 
 function InnerPort({ image, text, description }) {

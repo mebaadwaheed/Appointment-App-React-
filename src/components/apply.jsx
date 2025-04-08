@@ -1,4 +1,4 @@
-import DoctorGirlPNG from '../assets/Rectangle1550(1).png';
+import DoctorGirlPNG from '../assets/Rectangle1550-1-.png';
 import '../component-styles/apply.css';
 
 export default function ApplySign() {

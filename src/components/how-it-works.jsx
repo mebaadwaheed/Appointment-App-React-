@@ -1,7 +1,7 @@
-import MagnifyPNG from '../assets/magnifying-glass1(1).png';
-import VerifiedPNG from '../assets/verified1(1).png';
-import AppointmentPNG from '../assets/online-appointment1(1).png';
-import SolutionPNG from '../assets/solution1(1).png';
+import MagnifyPNG from '../assets/magnifying-glass1-1-.png';
+import VerifiedPNG from '../assets/verified1-1-.png';
+import AppointmentPNG from '../assets/online-appointment1-1-.png';
+import SolutionPNG from '../assets/solution1-1-.png';
 import CardLight from './card-light';
 import '../component-styles/how-it-works.css';
 

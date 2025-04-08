@@ -1,13 +1,13 @@
-import AppImage from '../assets/image(1).png';
-import AppImageDots from '../assets/mockupsplusdots(1).png';
-import GooglePlay from '../assets/google_play.png.png';
-import AppStore from '../assets/apple_store.png.png';
-import LeftArrowPointing from '../assets/vector(4).png';
+import AppImage from '../assets/image-1-.png';
+import AppImageDots from '../assets/mockupsplusdots-1-.png';
+import GooglePlay from '../assets/google_play.png';
+import AppStore from '../assets/apple_store.png';
+import LeftArrowPointing from '../assets/vector-4-.png';
 import '../component-styles/app-adv.css';
 
 export default function AppAdv() { 
   return (
-    <>
+    <>C:\Users\DELL\OneDrive\Desktop\Appointment App (React)\appointment-app\src\assets>
       <div className="app-cont">
         <div className="app-imgs">
           <img src={AppImageDots} alt="" />

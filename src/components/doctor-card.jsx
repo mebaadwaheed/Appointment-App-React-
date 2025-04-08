@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom';
 import FacebookPNG from '../assets/f.png';
 import LinkedInPNG from '../assets/in.png';
-import TwitterPNG from '../assets/Vector(3).png';
-import DoctorCircle from '../assets/Ellipse1(2).png';
+import TwitterPNG from '../assets/Vector-3-.png';
+import DoctorCircle from '../assets/Ellipse1-2-.png';
 import '../component-styles/doctor-card.css';
 
 export default function DoctorCard({ name, job, description }) {
