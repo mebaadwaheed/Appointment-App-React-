@@ -1,5 +1,5 @@
 import '../component-styles/main-home.css'
-import doctorGuy from '../assets/baba icon (1).png';
+import doctorGuy from '../assets/babaicon(1).png';
 
 
 export default function MainHome() {

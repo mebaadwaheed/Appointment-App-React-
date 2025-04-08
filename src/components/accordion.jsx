@@ -1,4 +1,4 @@
-import DownArrowPNG from '../assets/Down (1).png';
+import DownArrowPNG from '../assets/Down(1).png';
 import '../component-styles/accordion.css';
 
 export default function Accordion({ header, content, isOpen, onClick }) {

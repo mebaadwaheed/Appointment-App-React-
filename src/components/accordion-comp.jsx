@@ -1,4 +1,4 @@
-import SettingPNG from '../assets/Group 512783 (1).png'
+import SettingPNG from '../assets/Group512783(1).png'
 import Accordion from './accordion';
 import '../component-styles/accordion-cmp.css'
 import { useState } from 'react';

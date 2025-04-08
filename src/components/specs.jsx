@@ -1,7 +1,7 @@
-import NeurologistPNG from '../assets/Frame 1000000833 (4).png';
-import CardiologistPNG from '../assets/Frame 1000000833 (5).png';
-import PulmonologistPNG from '../assets/Frame 1000000833 (6).png';
-import NephrolohistPNG from '../assets/Frame 1000000833 (7).png';
+import NeurologistPNG from '../assets/Frame1000000833(4).png';
+import CardiologistPNG from '../assets/Frame1000000833(5).png';
+import PulmonologistPNG from '../assets/Frame1000000833(6).png';
+import NephrolohistPNG from '../assets/Frame1000000833(7).png';
 import DoctorSpecialty from './doctor-specialty';
 import '../component-styles/specs.css';
 

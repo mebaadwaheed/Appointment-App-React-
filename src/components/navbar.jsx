@@ -1,6 +1,6 @@
 import { NavLink, useLocation } from "react-router-dom";
 import "../component-styles/navbar.css";
-import pulsePng from "../assets/Heart with Pulse.png";
+import pulsePng from "../assets/HeartwithPulse.png";
 
 export default function Navbar() {
   const location = useLocation();

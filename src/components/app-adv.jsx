@@ -1,8 +1,8 @@
-import AppImage from '../assets/image (1).png';
-import AppImageDots from '../assets/mockups plus dots (1).png';
+import AppImage from '../assets/image(1).png';
+import AppImageDots from '../assets/mockupsplusdots(1).png';
 import GooglePlay from '../assets/google_play.png.png';
 import AppStore from '../assets/apple_store.png.png';
-import LeftArrowPointing from '../assets/vector (4).png';
+import LeftArrowPointing from '../assets/vector(4).png';
 import '../component-styles/app-adv.css';
 
 export default function AppAdv() { 

@@ -1,4 +1,4 @@
-import HeartPNG from '../assets/Heart with Pulse.png';
+import HeartPNG from '../assets/HeartwithPulse.png';
 import '../component-styles/footer.css';
 
 export default function Footer() {
